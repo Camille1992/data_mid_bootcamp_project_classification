@@ -1,0 +1,16 @@
+TP = confusion[1, 1]
+TN = confusion[0, 0]
+FP = confusion[0, 1]
+FN = confusion[1, 0]
+"Classifier accuracy is: " (TP + TN) / (TP + TN + FP + FN)
+
+sensitivity = TP / (FN + TP)
+
+false_negative_rate = FN / ( FN + TP)
+
+specificity = TN / (TN + FP)
+
+false_positive_rate = FP / float(TN + FP)
+
+
+The precision is the ratio tp / (tp + fp) where tp is the number of true positives and fp the number of false positives. The precision is intuitively the ability of the classifier not to label as positive a sample that is negative.

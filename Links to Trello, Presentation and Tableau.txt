@@ -1,0 +1,8 @@
+Link to Trello:
+https://trello.com/b/C3dR7fm8/classification-bank-credit-rating
+
+Link to presentation:
+https://slides.com/camillecoeurjoly/
+
+Link to Tableau (also included as a workbook):
+https://public.tableau.com/app/profile/camille.coeurjoly/viz/Mid-Bootcampproject-Classification/Dashboard1?publish=yes
